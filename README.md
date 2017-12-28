@@ -2,7 +2,7 @@ DateSwitcher
 
 ![抢火车票的时候看到这个小功能，觉得挺有意思，自己做了效果](https://github.com/wanchunli/DateSwitcher/blob/master/picture1.jpg)
 
-Demo(https://github.com/wanchunli/DateSwitcher/blob/master/picture1.jpg)
+Demo(https://github.com/wanchunli/DateSwitcher/blob/master/app-debug.apk)
 今天抢火车票的时候看到这个小功能，觉得挺有意思，自己做了效果
 利用TextSwitcher控件实现日期滑动切换的效果
 对TextSwitcher中的子textview添加了手势接口，从而实现手势滑动切换日期
